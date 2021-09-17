@@ -5,6 +5,9 @@ and work at the [Volkswagen Data:Lab](https://datalab-munich.de/) in Munich.
 
 
 ### 📃 Publications
+#### 🎉  NEW PUBLICATION accepted to EMNLP 2021  🎉   ####
+- März L., Asgari E., Braune F., Zimmermann F., Roth B. (2021) [KnowMAN: Weakly Supervised Multinomial Networks](https://arxiv.org/abs/2109.07994) - to be published at EMNLP 2021.
+
 - März L., Schweter S., Poerner N., Roth B., Schütze H. (2021) [Data Centric Domain Adaptation for Historical Text with OCR Errors.](https://link.springer.com/chapter/10.1007/978-3-030-86331-9_48#citeas) In: Lladós J., Lopresti D., Uchida S. (eds) Document Analysis and Recognition – ICDAR 2021. ICDAR 2021. Lecture Notes in Computer Science, vol 12822. Springer, Cham. https://doi.org/10.1007/978-3-030-86331-9_48
 
 - Schweter, S., & März, L. (2020). [Triple E - Effective Ensembling of Embeddings and Language Models for NER of Historical German.](https://www.semanticscholar.org/paper/Triple-E-Effective-Ensembling-of-Embeddings-and-for-Schweter-M%C3%A4rz/e082bb840f9cfcc88c51b840d2b9a62645679564) CLEF.
